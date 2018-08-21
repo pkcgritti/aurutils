@@ -1,0 +1,16 @@
+{
+  "name": "smartaur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Cesar Gritti <cesargritti@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsdom": "^11.12.0",
+    "ora": "^3.0.0"
+  }
+}
